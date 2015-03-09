@@ -1,0 +1,7 @@
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\NetworkSamples\Udp.Sync.Client\bin\Debug\Udp.Sync.Client.exe
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\NetworkSamples\Udp.Sync.Client\bin\Debug\Udp.Sync.Client.pdb
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\NetworkSamples\Udp.Sync.Client\obj\Debug\Udp.Sync.Client.exe
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\NetworkSamples\Udp.Sync.Client\obj\Debug\Udp.Sync.Client.pdb
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\NetworkSamples\Udp.Sync.Client\bin\Debug\NetworkSamples.Model.dll
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\NetworkSamples\Udp.Sync.Client\bin\Debug\NetworkSamples.Model.pdb
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\NetworkSamples\Udp.Sync.Client\obj\Debug\Udp.Sync.Client.csprojResolveAssemblyReference.cache

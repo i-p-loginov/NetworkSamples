@@ -1,0 +1,7 @@
+c:\users\ivan\documents\visual studio 2012\Projects\NetworkSamples\Tcp.Sync.Client\bin\Debug\Tcp.Sync.Client.exe
+c:\users\ivan\documents\visual studio 2012\Projects\NetworkSamples\Tcp.Sync.Client\bin\Debug\Tcp.Sync.Client.pdb
+c:\users\ivan\documents\visual studio 2012\Projects\NetworkSamples\Tcp.Sync.Client\obj\Debug\Tcp.Sync.Client.exe
+c:\users\ivan\documents\visual studio 2012\Projects\NetworkSamples\Tcp.Sync.Client\obj\Debug\Tcp.Sync.Client.pdb
+C:\Users\Ivan\documents\visual studio 2012\Projects\NetworkSamples\Tcp.Sync.Client\obj\Debug\Tcp.Sync.Client.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\documents\visual studio 2012\Projects\NetworkSamples\Tcp.Sync.Client\bin\Debug\NetworkSamples.Model.dll
+C:\Users\Ivan\documents\visual studio 2012\Projects\NetworkSamples\Tcp.Sync.Client\bin\Debug\NetworkSamples.Model.pdb

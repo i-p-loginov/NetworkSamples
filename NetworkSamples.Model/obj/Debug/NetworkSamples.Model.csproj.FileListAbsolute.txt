@@ -1,0 +1,5 @@
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\NetworkSamples\NetworkSamples.Model\bin\Debug\NetworkSamples.Model.dll
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\NetworkSamples\NetworkSamples.Model\bin\Debug\NetworkSamples.Model.pdb
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\NetworkSamples\NetworkSamples.Model\obj\Debug\NetworkSamples.Model.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\NetworkSamples\NetworkSamples.Model\obj\Debug\NetworkSamples.Model.dll
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\NetworkSamples\NetworkSamples.Model\obj\Debug\NetworkSamples.Model.pdb
