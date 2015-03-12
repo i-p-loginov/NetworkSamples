@@ -18,7 +18,8 @@ namespace Tcp.Sync.Client
                 return;
             }
 
-            //предполагаем, что аргументы переданы в корректном формате
+            //предполагаем, что аргументы переданы в корректном формате,
+            //поэтому сразу же распарсим, без каких-либо проверок.
             var targetIp = IPAddress.Parse(args[0]);
             var port = int.Parse(args[1]);
 
@@ -34,9 +35,11 @@ namespace Tcp.Sync.Client
                 Console.WriteLine("Type message:");
                 string msg = Console.ReadLine();
 
-                //вызываем extension-метод из NetworkSamples.Model.NetworkHelpers
+                //вызываем extension-метод из сборки NetworkSamples.Model.NetworkHelpers,
+                //который отправляет строковое сообщение на сервер
                 socket.TcpSendMessage(msg);
 
+                //получаем сообщение от сервера
                 var result = socket.TcpReceiveMessage();
 
                 Console.WriteLine("Response:" + result);
