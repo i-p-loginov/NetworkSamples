@@ -28,11 +28,14 @@ namespace NetworkSamples.Model
                 //получаем данные в буфер, сохраняя количество реально полученных байт
                 int receivedBytesCount = socket.Receive(buffer, buffer.Length, SocketFlags.None);
 
-                //преобразовываем в строку 
-                message += Encoding.Default.GetString(buffer, 0, receivedBytesCount);
-
                 //проверяем, завершена ли передача данных (получили ли признак конца сообщения - '\0\0')
                 receivedAll = IsEndOfMessage(buffer, receivedBytesCount);
+
+                if (!receivedAll)
+                {
+                    //преобразовываем в строку 
+                    message += Encoding.Default.GetString(buffer, 0, receivedBytesCount);
+                }
 
             } while (!receivedAll);
 
