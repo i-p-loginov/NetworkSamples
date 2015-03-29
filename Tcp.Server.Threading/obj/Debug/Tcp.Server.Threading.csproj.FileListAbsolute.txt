@@ -1,0 +1,7 @@
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\NetworkSamples\Tcp.Server.Threading\bin\Debug\Tcp.Server.Threading.exe
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\NetworkSamples\Tcp.Server.Threading\bin\Debug\Tcp.Server.Threading.pdb
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\NetworkSamples\Tcp.Server.Threading\bin\Debug\NetworkSamples.Model.dll
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\NetworkSamples\Tcp.Server.Threading\bin\Debug\NetworkSamples.Model.pdb
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\NetworkSamples\Tcp.Server.Threading\obj\Debug\Tcp.Server.Threading.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\NetworkSamples\Tcp.Server.Threading\obj\Debug\Tcp.Server.Threading.exe
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\NetworkSamples\Tcp.Server.Threading\obj\Debug\Tcp.Server.Threading.pdb
