@@ -1,0 +1,7 @@
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\NetworkSamples\Udp.Server.Threading\bin\Debug\Udp.Server.Threading.exe
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\NetworkSamples\Udp.Server.Threading\bin\Debug\Udp.Server.Threading.pdb
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\NetworkSamples\Udp.Server.Threading\bin\Debug\NetworkSamples.Model.dll
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\NetworkSamples\Udp.Server.Threading\bin\Debug\NetworkSamples.Model.pdb
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\NetworkSamples\Udp.Server.Threading\obj\Debug\Udp.Server.Threading.csprojResolveAssemblyReference.cache
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\NetworkSamples\Udp.Server.Threading\obj\Debug\Udp.Server.Threading.exe
+C:\Users\Ivan\Documents\Visual Studio 2012\Projects\NetworkSamples\Udp.Server.Threading\obj\Debug\Udp.Server.Threading.pdb
